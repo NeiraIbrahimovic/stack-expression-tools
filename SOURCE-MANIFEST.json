@@ -1,0 +1,38 @@
+[
+  {
+    "path": "src/Nestable.java",
+    "recovered_source_sha256": "b004fb82fa05835652b124b85f65a42247e105360388412698da9b8ecec925d9"
+  },
+  {
+    "path": "src/NestableCharacter.java",
+    "recovered_source_sha256": "d002fe911be19e6b9dba5f68392a44d3f9d87571f39f06455c5d637f6cae0972"
+  },
+  {
+    "path": "src/NestingChecker.java",
+    "recovered_source_sha256": "3d663f991e9af4fe94792e127f53689722dd48ed22b9b45a333af7251916a03b"
+  },
+  {
+    "path": "src/NestingCheckerTest.java",
+    "recovered_source_sha256": "dc209f35d4b6ab30ab3ccb2726f6444f80f38bdb4af1d0a23b48fbef5378c82d"
+  },
+  {
+    "path": "src/NestingReport.java",
+    "recovered_source_sha256": "e886a380645c5ddefad8237547cce53f108e7b77889c586f6b247bdf3e932362"
+  },
+  {
+    "path": "src/Playground.java",
+    "recovered_source_sha256": "7468fea51d3d9d3f72a72ec5f88adb1b7e3fa90783c5dee235e966aa9d43bdd6"
+  },
+  {
+    "path": "src/RpnCalculator.java",
+    "recovered_source_sha256": "7b7ac1aa73d4bb04cc8d3d1a3e38b458f008c3c86c5c25be072e41810bcb1081"
+  },
+  {
+    "path": "src/RpnCalculatorTest.java",
+    "recovered_source_sha256": "a3faef2fac0c4c0083a2a41a143bd77d8ca48d1fcc4d527474aecd36a05d95d2"
+  },
+  {
+    "path": "src/VanNest.java",
+    "recovered_source_sha256": "092296af294450b70d7ca0b86993e6600be07db0abcbd41e1ad785bda3d13719"
+  }
+]
